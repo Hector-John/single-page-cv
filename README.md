@@ -4,8 +4,10 @@ A simple single page cv website
 https://github.com/Hector-John/single-page-cv
 <br/>
 https://single-page-cv-hector.vercel.app/
-<br/><br/>
+<br/>
 
-url: [project URL](single-page-cv-hector.vercel.app) <br/>
-
+url: [project URL](single-page-cv-hector.vercel.app)
+<br/>
+url: [project URL](https://roadmap.sh/projects/single-page-cv)
+<br/>
 url: [github URL](https://github.com/Hector-John/single-page-cv)
