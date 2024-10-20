@@ -1,3 +1,3 @@
 A simple single page cv website
 
-url: single-page-cv-hector.vercel.app
+url: [project URL](single-page-cv-hector.vercel.app)
